@@ -9,5 +9,13 @@
 ### Kurulum 
 
 ``
-git clone https://github.com/FurkanGod/dm-Bot && cd dm-Bot && python main.py
+git clone https://github.com/FurkanGod/dm-Bot
+``
+
+``
+cd dm-Bot
+``
+
+``
+python main.py
 ``
