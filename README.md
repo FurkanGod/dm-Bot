@@ -1,4 +1,4 @@
-### Telegram Karşı Tarafın Size Yazdığı Mesajı Size Gönderen Bot
+### Telegram Karşı Tarafın Yazdığı Mesajı Size Gönderen Bot
 
 # İLETİŞİM
 
